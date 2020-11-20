@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f2f1021-2bd0-4d37-90f1-4dfb93037801" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1kVZAlW0qXkfuYqJW42H2rqY4U4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Q:\курсы\продвинутый js\oopProj\src\assets\css" />
+      <recent name="Q:\курсы\продвинутый js\oopProj\src\js\modules\slider" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2f1021-2bd0-4d37-90f1-4dfb93037801" name="Default Changelist" comment="" />
+      <created>1605787581205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605787581205</updated>
+      <workItem from="1605787583038" duration="25602000" />
+      <workItem from="1605819643460" duration="1041000" />
+      <workItem from="1605851777543" duration="8945000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="221" key="#Deployment" timestamp="1605798915370">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="552" y="221" key="#Deployment/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605798915370" />
+    <state x="658" y="389" key="#Notifications" timestamp="1605798445617">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="658" y="389" key="#Notifications/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605798445617" />
+    <state x="586" y="343" key="EditFileWatcherDialog" timestamp="1605806685170">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="586" y="343" key="EditFileWatcherDialog/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605806685170" />
+    <state x="740" y="318" key="FileChooserDialogImpl" timestamp="1605798016664">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="740" y="318" key="FileChooserDialogImpl/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605798016664" />
+    <state x="822" y="462" width="541" height="202" key="Github.ShareDialog" timestamp="1605798948497">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="822" y="462" width="541" height="202" key="Github.ShareDialog/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605798948497" />
+    <state width="1900" height="280" key="GridCell.Tab.0.bottom" timestamp="1605806709014">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1900" height="280" key="GridCell.Tab.0.bottom/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605806709014" />
+    <state width="1900" height="280" key="GridCell.Tab.0.center" timestamp="1605806709013">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1900" height="280" key="GridCell.Tab.0.center/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605806709013" />
+    <state width="1900" height="280" key="GridCell.Tab.0.left" timestamp="1605806709013">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1900" height="280" key="GridCell.Tab.0.left/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605806709013" />
+    <state width="1900" height="280" key="GridCell.Tab.0.right" timestamp="1605806709013">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state width="1900" height="280" key="GridCell.Tab.0.right/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605806709013" />
+    <state x="500" y="287" key="SettingsEditor" timestamp="1605851952916">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="500" y="287" key="SettingsEditor/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605851952916" />
+    <state x="772" y="338" key="refactoring.ChangeSignatureDialog" timestamp="1605803046249">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="772" y="338" key="refactoring.ChangeSignatureDialog/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605803046249" />
+    <state x="616" y="262" key="run.anything.popup" timestamp="1605806920120">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="616" y="262" key="run.anything.popup/0.46.1920.1034/1920.40.1920.1040@0.46.1920.1034" timestamp="1605806920120" />
+  </component>
+</project>
